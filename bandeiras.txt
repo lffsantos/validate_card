@@ -1,0 +1,5 @@
+Bandeira,começa_com,tamanho
+amex,34ou37,15
+discover,6011,16
+mastercard,51-55,16
+visa,4,13ou16
